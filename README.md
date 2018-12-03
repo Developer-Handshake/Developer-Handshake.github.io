@@ -1,2 +1,2 @@
-# dev-handshake
+# Developer Handshake 
 A Blog. Read Me. 

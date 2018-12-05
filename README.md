@@ -1,6 +1,3 @@
-# Developer Handshake
+# Developer Handshake ![logo](https://github.com/Developer-Handshake/dev-handshake/blob/master/img-media/chip.png)
 > Open. Source. All. The. Things. 
-
-![Diagram1](https://quiz.triplebyte.com/language-identification/static/media/laptop.bea0e7a9.png)
-
 

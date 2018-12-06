@@ -2,12 +2,12 @@
 > Open. Source. All. The. Things. ⌨
 
 #### 🔍️ Our Mission
-**Wouldn't the world be easier if everything was free?**
+**~ Wouldn't the world be easier if everything was free?**
 
 Technology is inseparable from our everyday society. We depend on technology for everything from remedial task to highly complex computations. Our aim is to provide solutions for these scenarios in a way that is both efficient and with the future in mind. 
 
 We are always looking for talented contributors. Please don't hesitate to reach out if you have a vision that you feel should be brought to life.
-* [Dev-Handshake](mailto:developer.handshake@gmail.com)
+[Dev-Handshake](mailto:developer.handshake@gmail.com) 📩
 
 ![Divider](https://github.com/Developer-Handshake/dev-handshake/blob/master/img-media/divider.jpg)
 

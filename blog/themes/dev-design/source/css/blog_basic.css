@@ -29,11 +29,6 @@
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif
 }
 
-.content > .post > .post-content > p {
-  word-wrap: break-word;
-  word-break: break-all;
-}
-
 #ds-thread,#disqus_thread,#cloud-tie-wrapper {
   margin: 0 30px!important
 }
@@ -229,7 +224,7 @@ html {
 
           h2 {
             font-size: 1.9rem;
-            line-height: 1.2em; }
+            line-height: 1em; }
 
             h3 {
               font-size: 1.75rem; }

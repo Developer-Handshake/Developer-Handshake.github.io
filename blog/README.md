@@ -8,6 +8,6 @@ Regularly updated blog space with information on all things technology, employme
 
 #### Contributions ✏️
 * **UX/UI Design and Functionality** ~ [Jzbonner](https://github.com/Jzbonner) 🌐
-* ***FrontEnd Development** ~ [Jzbonner](https://github.com/Jzbonner) 🌐
+* **FrontEnd Development** ~ [Jzbonner](https://github.com/Jzbonner) 🌐
 
 

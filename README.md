@@ -2,7 +2,7 @@
 > Open. Source. All. The. Things. ⌨
 
 #### 🔍️ Our Mission
-**~ Wouldn't the world be easier if everything was free?**
+**Wouldn't the world be easier if everything was free?**
 
 Technology is inseparable from our everyday society. We depend on technology for everything from remedial task to highly complex computations. Our aim is to provide solutions for these scenarios in a way that is both efficient and with the future in mind. 
 

@@ -7,7 +7,7 @@ A Blog. Read Me. 📑
 Regularly updated blog space with information on all things technology, employment, literature and current events. Come here if you want to spark conversation or just learn about what the world has to offer. 
 
 #### Contributions ✏️
-* Theme ~ [Ben02](https://github.com/Ben02/hexo-theme-Anatole) 🌐
-* FrontEnd Development ~ [Jzbonner](https://github.com/Jzbonner) 🌐
+* **UX/UI Design and Functionality** ~ [Jzbonner](https://github.com/Jzbonner) 🌐
+* ***FrontEnd Development** ~ [Jzbonner](https://github.com/Jzbonner) 🌐
 
 

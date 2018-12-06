@@ -1,4 +1,4 @@
-# Developer Handshake 
+# ![logo](https://github.com/Developer-Handshake/dev-handshake/blob/master/img-media/chip0.5x.png) Developer Handshake 
 A Blog. Read Me. 📑
 
 ![Diagram1](http://www.wploka.com/wp-content/uploads/2017/12/wordpress-cms-blog.jpg)

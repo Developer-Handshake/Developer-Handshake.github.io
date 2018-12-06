@@ -1,0 +1,11 @@
+extends partial/layout
+
+block site_title
+    !=  "Links · " + config.title
+
+block description
+    - var desc = 'Links - ' + config.title;
+    meta(name="description", content=desc)
+
+block content
+    p Links Page

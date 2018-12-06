@@ -1,0 +1,11 @@
+extends partial/layout
+
+block site_title
+    !=  "About · " + config.title
+
+block description
+    - var desc = 'About - ' + config.title;
+    meta(name="description", content=desc)
+
+block content
+    p About Page

@@ -289,10 +289,16 @@ a:hover, a:active {
 .post .post-content h4 {
   color: #5F5F5F;
   font-size: 14px;
+  padding-left: 15px;
 }
 .post .post-content p {
   font-size: 14px;
   padding: 15px; 
+}
+.post .post-content img {
+  display: block; 
+  padding-right: 15px; 
+  margin: auto; 
 }
 .post .post-footer {
   padding: 0 0 30px 15px;

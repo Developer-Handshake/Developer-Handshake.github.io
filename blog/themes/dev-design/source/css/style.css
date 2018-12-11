@@ -282,9 +282,9 @@ a:hover, a:active {
   padding: 15px; 
 }
 .post .post-content h2#Community-First-Business-by-Definition {
-  /*background-color: rgba(98,136,64, 0.2);*/
   background-color: rgba(255,240,198, 0.6);
   border-left: 8px solid grey; 
+  font-weight: 400; 
 }
 .post .post-content h3 {
   color: #5F5F5F;

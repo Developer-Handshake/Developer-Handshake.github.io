@@ -282,7 +282,8 @@ a:hover, a:active {
   padding: 15px; 
 }
 .post .post-content h2#Community-First-Business-by-Definition {
-  background-color: rgba(98,136,64, 0.2);
+  /*background-color: rgba(98,136,64, 0.2);*/
+  background-color: rgba(255,240,198, 0.6);
   border-left: 8px solid grey; 
 }
 .post .post-content h3 {
@@ -309,6 +310,14 @@ a:hover, a:active {
   display: block; 
   padding-right: 15px; 
   margin: auto; 
+}
+.post .post-content h3#Business img {
+  padding-right: 8px; 
+  float: left; 
+}
+.post .post-content h3#Community img {
+  padding-right: 8px; 
+  float: left; 
 }
 .post .post-footer {
   padding: 0 0 30px 15px;

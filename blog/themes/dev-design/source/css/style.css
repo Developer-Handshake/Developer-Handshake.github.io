@@ -319,6 +319,12 @@ a:hover, a:active {
   padding-right: 8px; 
   float: left; 
 }
+.post .post-content p.closer {
+  color: #377D4E; 
+  text-align: center; 
+  font-size: 19px; 
+  font-weight: 300; 
+}
 .post .post-footer {
   padding: 0 0 30px 15px;
   border-bottom: 1px solid #f2f2f2;

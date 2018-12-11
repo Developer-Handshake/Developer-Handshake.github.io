@@ -281,12 +281,13 @@ dl dt {
 
       blockquote {
         box-sizing: border-box;
-        margin: 1.6em 0 1.6em -2.2em;
-        padding: 0 0 0 1.6em;
-        border-left: #4a4a4a 0.4em solid; }
+        margin: 1em 0 1.6em 2em;
+        padding: 0;
+        border-left: #628840 0.1em solid; }
 
         blockquote p {
-          margin: 0.8em 0; }
+          margin: 0.8em 0;
+          padding-left: 0; }
 
           blockquote small {
             display: inline-block;

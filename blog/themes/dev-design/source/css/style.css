@@ -286,6 +286,14 @@ a:hover, a:active {
   border-left: 8px solid grey; 
   font-weight: 400; 
 }
+.post .post-content h2#Spotlight {
+  border-left: 8px solid grey; 
+  font-weight: 400; 
+}
+.post .post-content h2#Learn-Something {
+  border-left: 8px solid grey; 
+  font-weight: 400; 
+}
 .post .post-content h3 {
   color: #5F5F5F;
   font-size: 22px;
@@ -318,6 +326,11 @@ a:hover, a:active {
 .post .post-content h3#Community img {
   padding-right: 8px; 
   float: left; 
+}
+.post .post-content h2 img.header-links {
+  border-right: 12px grey solid;  
+  margin-left: -15px;
+  padding: 0; 
 }
 .post .post-content p.closer {
   color: #377D4E; 

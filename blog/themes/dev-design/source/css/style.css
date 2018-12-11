@@ -278,6 +278,7 @@ a:hover, a:active {
 }
 .post .post-content h2 {
   margin-top: 12px; 
+  margin-bottom: 8px; 
   padding-left: 15px; 
 }
 .post .post-content h3 {
@@ -294,6 +295,7 @@ a:hover, a:active {
 .post .post-content p {
   font-size: 14px;
   padding: 15px; 
+  margin-bottom: 8px; 
 }
 .post .post-content img {
   display: block; 

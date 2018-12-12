@@ -269,6 +269,15 @@ a:hover, a:active {
   text-decoration: none;
   color: #4786D6;
 }
+.post .post-content div.title-spotlight {
+  background: url(https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/link-header.jpg);
+  background-position: bottom left; 
+}
+.post .post-content div.title-spotlight h2.spotlight {
+  background-color: rgba(245,241,206,0.4);
+  color: white;
+  font-weight: 400; 
+}
 .post .post-content a:hover {
   color: #2F69B3;
 }
@@ -283,10 +292,6 @@ a:hover, a:active {
 }
 .post .post-content h2#Community-First-Business-by-Definition {
   background-color: rgba(255,240,198, 0.6);
-  border-left: 8px solid grey; 
-  font-weight: 400; 
-}
-.post .post-content h2#Spotlight {
   border-left: 8px solid grey; 
   font-weight: 400; 
 }
@@ -331,6 +336,17 @@ a:hover, a:active {
   border-right: 12px grey solid;  
   margin-left: -15px;
   padding: 0; 
+}
+.post .post-content table.spotlight {
+  border: 1px solid black; 
+  display: block; 
+  margin: 15px; 
+  padding: 15px;   
+}
+.post .post-content table.spotlight tbody tr td  {
+  padding: 5px; 
+  text-align: center; 
+  width: 50vw; 
 }
 .post .post-content p.closer {
   color: #377D4E; 

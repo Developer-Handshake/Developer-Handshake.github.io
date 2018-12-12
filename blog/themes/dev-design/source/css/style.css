@@ -270,8 +270,11 @@ a:hover, a:active {
   color: #4786D6;
 }
 .post .post-content div.title-spotlight {
-  background: url(https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/link-header.jpg);
+  background: url();
   background-position: bottom left; 
+}
+.post .post-content div.title-spotlight .img-spotlight {
+  float: right; 
 }
 .post .post-content div.title-spotlight h2.spotlight {
   background-color: rgba(245,241,206,0.4);

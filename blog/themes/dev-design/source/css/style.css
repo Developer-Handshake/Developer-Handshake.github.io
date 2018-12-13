@@ -343,7 +343,6 @@ a:hover, a:active {
   padding: 0; 
 }
 .post .post-content table.spotlight {
-  border: 1px solid black; 
   display: block; 
   margin: 15px; 
   padding: 15px;   
@@ -352,6 +351,10 @@ a:hover, a:active {
   padding: 5px; 
   text-align: center; 
   width: 50vw; 
+}
+.post .post-content table.spotlight tbody tr td p.spotlight-description {
+   text-align: left; 
+   margin-left: 5px; 
 }
 .post .post-content p.closer {
   color: #377D4E; 

@@ -11,10 +11,9 @@ tags:
 Programming involves an immense amount of theoretical knowledge. Understandably there can be a steep learning curve to those that are new to the field. Most technology blogs will point you to an introductory programming or scripting language to convey the basics, however they do not provide you with much information beyond that once you establish the basic principles. 
 
 ## Data Structures and Algorithms 
-![Image1]()
+![Image1](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/dsa-img.jpg)
 
 ### What is a Data Structure and Why do we use Algorithms? 
-
-
+**Data Structures** are data organizations, managements and storage formats that enable efficient access and modifications.  
 
 

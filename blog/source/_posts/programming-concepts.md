@@ -27,8 +27,18 @@ The industry standard for computing efficiency of an _Algorithm_ is rooted in **
 
 (_Rob Bell_, [rob-bell.com](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/))
 
-#### Types of Data Structures 
+#### Types of Data Structures
 Not all data is the same and therefore not all data structures are the same. A brief synopsis of typical data structures includes: 
+
+![Diagram1](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/data-structures.jpeg)
+
+It is through these organizations of data that computer scientist can generate methodologies for searching, sorting, backtracking, branching, etc. There are instances where certain methodologies or algorithms work best with certain types of data structures, which is why it is in your best interest to learn the various types of data structures in detail as well as which data sets they are prioritized for. 
+
+For a deeper understanding of these Data Structures please refer to this [repository](https://github.com/Jzbonner/ProgrammingConcepts) which offers detailed descriptions and examples of various data structures and their applications. 
+
+#### Implementation of Data Structures and Algorithms 
+/* Discuss industry standards for utilizing data structures and algorithms in modern applications */ 
+
 
 
 

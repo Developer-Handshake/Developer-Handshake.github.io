@@ -296,7 +296,7 @@ a:hover, a:active {
   padding: 15px; 
 }
 .post .post-content h2#Community-First-Business-by-Definition {
-  background-color: rgba(255,240,198, 0.6);
+  /*background-color: rgba(255,240,198, 0.6);*/
   border-left: 8px solid grey; 
   font-weight: 400; 
 }

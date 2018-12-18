@@ -45,7 +45,10 @@ For a deeper understanding of these Data Structures please refer to this [reposi
 ### Modern Industry and Foundational Principles 
 Industries are not at all uniform. There are standards and methodologies for doing things that will differ depending on the industry or setting that you are in. Proprietary strategies and development life cycles are abundant in a field where every organization is in competition with the next. However there is an underlying methodology for which companies design, develop and deploy software-based products and services. 
 
+<!--Diagram Below may have to be represented in an image class in order to undergo the proper resizing-->
+
 ![Diagram3](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/sdlc.png)
 
+The diagram encompases a number 
 
 

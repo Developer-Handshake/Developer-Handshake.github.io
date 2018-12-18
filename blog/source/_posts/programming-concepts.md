@@ -8,7 +8,7 @@ tags:
 - framework 
 - javascript 
 ---
-Programming involves an immense amount of theoretical knowledge. Understandably there can be a steep learning curve to those that are new to the field. Most technology blogs will point you to an introductory programming or scripting language to convey the basics, however they do not provide you with much information beyond that once you establish the basic principles. 
+Programming involves an immense amount of theoretical knowledge. Understandably there can be a steep learning curve to those that are new to the field. Most technology blogs will point you to an introductory programming or scripting language to convey the basics, however they do not provide you with much information beyond that. Let us guide you into a more industry centric view of computational science and development. 
 
 ## Data Structures and Algorithms 
 ![Image1](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/dsa-img.jpg)
@@ -43,12 +43,14 @@ For a deeper understanding of these Data Structures please refer to this [reposi
 ![Diagram2](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/prog-concepts.jpg)
 
 ### Modern Industry and Foundational Principles 
-Industries are not at all uniform. There are standards and methodologies for doing things that will differ depending on the industry or setting that you are in. Proprietary strategies and development life cycles are abundant in a field where every organization is in competition with the next. However there is an underlying methodology for which companies design, develop and deploy software-based products and services. 
-
-<!--Diagram Below may have to be represented in an image class in order to undergo the proper resizing-->
+Industries are not rooted in uniformity. There are standards and methodologies for doing things that will differ depending on the industry or setting that you are in. Proprietary strategies and development life cycles are abundant in a field where every organization is in competition with the next. However there is an underlying methodology for which companies design, develop and deploy software-based products and services. 
 
 ![Diagram3](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/sdlc.png)
 
-The diagram encompases a number 
+The diagram above encompasses the steps that are typically used to bring a product from idea to launch. Maintaining that workflow will be done through a software development platform like **[Github](https://github.com/)** or **[Gitlab](https://gitlab.com/)**. One methodology for keeping track of development environments throughout the development life-cycle incorporates the use of a master or release environment/branch and the use of a development environment/branch: 
 
+![Diagram4](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/github.png)
 
+Incorporating both of these aspects into your software development practices will provide the direction necessary for you to maintain a project throughout multiple steps of the software development life cycle. Proper documentation and repository management will allow for other collaborators to quickly and efficiently navigate your open source project while at the same time make contributions on any number of issues throughout development. 
+
+- [Jzbonner](https://github.com/Jzbonner) 🌐

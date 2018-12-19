@@ -18,7 +18,7 @@ Collaborators. Individual Thinkers. Developer Enthusiasts. Content Creators. We 
 ### Business ![about-secondary](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/business.png)
 > How do we do business? By providing opportunities whose value constitute returns on investment along with community growth. 
 
-We provide products and services that redefine the mundane. Simply put - we have no direction to our business model as of yet... or maybe we do, and we are not telling. Either way, numbers often speak for themselves when determining true value. So when we finally receive those fancy matplotlib and seaborn visuals from our data and business analytics team we will be sure to let you know just how well business is doing. However, our business philosophy is simple ~ 
+We provide products and services that redefine the mundane. Numbers often speak for themselves when determining true value. So when we finally receive those fancy matplotlib and seaborn visuals from our data and business analytics team we will be sure to let you know just how well business is doing. However, our business philosophy is simple:  
 
 <p class="closer">If technology is the omnipresent entity of tomorrow, we design tools that allow us to navigate that terrain with efficiency.</p> 
 

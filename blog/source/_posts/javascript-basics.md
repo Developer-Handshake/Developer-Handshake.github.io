@@ -29,7 +29,7 @@ There are a number of advantages that the ES6 standard has brought to javascript
 
 #### Compilers to get you started
 * [Babel](https://babeljs.io/) - Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments 
-* [Sucrase](https://sucrase.io/) - Sucrase is an alternative to Babel that allows super-fast development builds. Instead of compiling a large range of JS features to be able to work in Internet Explorer, Sucrase assumes that you're developing with a recent browser or recent Node.js version, so it focuses on compiling non-standard language extensions 
+* [Sucrase](https://sucrase.io/) - Sucrase is an alternative to Babel that allows super-fast development builds. Instead of compiling a large range of JS features to be able to work in Internet Explorer, Sucrase assumes that you are developing with a recent browser or recent Node.js version, so it focuses on compiling non-standard language extensions 
 
 ![Diagram1](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/compiler.png)
 
@@ -94,7 +94,7 @@ console.log( firstname, lastname, country, age ) // => Glad Egoge Nigeria 21
 ```
 
 **Arrow Functions** 
-The ES5 syntax required developers to write out all aspects of a function's expression and statement. _Arrow Functions_ streamline the binding of `this` and defining parameters. Although arrow functions are applicable in a number of scenarios, they shouldn't be used in favor of regular functions for the following scenarios: 
+The ES5 syntax required developers to write out all aspects of a function's expression and statement. _Arrow Functions_ streamline the binding of `this` and defining parameters. Although arrow functions are applicable in a number of scenarios, they should not be used in favor of regular functions for the following scenarios: 
 1. When working with object methods
 2. When utilizing callback functions with dynamic context 
 3. When it makes your code less readable 

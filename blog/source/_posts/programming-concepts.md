@@ -1,5 +1,5 @@
 ---
-title: Programming Concepts
+title: Data Structures and Algorithms 
 date: 2018-12-13 17:43:13
 tags: 
 - programming 
@@ -40,7 +40,7 @@ There are certain scenarios that will prompt the use of a more advanced data str
 
 For a deeper understanding of these Data Structures please refer to this [repository](https://github.com/Jzbonner/ProgrammingConcepts) which offers detailed descriptions and examples of various data structures and their applications. 
 
-![Diagram2](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/prog-concepts.jpg)
+[![Diagram2](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/prog-concepts.jpg)](https://github.com/Jzbonner/ProgrammingConcepts)
 
 ### Modern Industry and Foundational Principles 
 Industries are not rooted in uniformity. There are standards and methodologies for doing things that will differ depending on the industry or setting that you are in. Proprietary strategies and development life cycles are abundant in a field where every organization is in competition with the next. However there is an underlying methodology for which companies design, develop and deploy software-based products and services. 

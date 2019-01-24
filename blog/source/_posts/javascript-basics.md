@@ -155,4 +155,9 @@ console.log (Lion.toString()) // => This is a fierce Lion.
 Classes in Javascript come with a baseline set of properties. Class methods are non-enumerable. The `class` declaration sets the `enumerable` flag to `false` for all methods in the `prototype`. Classes also have a default `constructor() {}`. If there is no `constructor` in the `class` construct, then an empty function is generated. All Classes always `use strict`. All content inside the class construct is automatically in strict mode. 
 
 **Modules in ES6** 
-There was no native modules support in Javascript before ES6. 
+Traditionally Javascript has never really had native modules support. Some alternatives were developed as a workaround of sorts, but with the latest implementation of the ECMAScript standard there are now modules with the `import` and `export` operand. The main issue with ES6 Modules is the lack of support amongst common web browsers. At the time of writing, you will need to employ an npm package, [jspm](https://jspm.io/), in order to use the new ES6 modules in modern browsers. 
+
+![Diagram2]()
+
+1. [RequireJS](https://requirejs.org/) - is a Javascript file and module loader. It is optimized for in-browser use, but it can be used in other Javascript environments. Using a module script loader like RequireJS will improve speed and quality of code  
+2. [CommonJS](https://requirejs.org/docs/commonjs.html) - is the module specification standard used in NodeJS for working with modules. Modules allow developers to encapsulate all types of functionality and expose said functionality to other Javascript files, as libraries 

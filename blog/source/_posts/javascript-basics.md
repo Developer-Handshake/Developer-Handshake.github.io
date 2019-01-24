@@ -151,3 +151,8 @@ let Lion = new Animal('Lion', true);
 console.log (Lion.fierce) // => This animal is fierce. 
 console.log (Lion.toString()) // => This is a fierce Lion. 
 ```
+
+Classes in Javascript come with a baseline set of properties. Class methods are non-enumerable. The `class` declaration sets the `enumerable` flag to `false` for all methods in the `prototype`. Classes also have a default `constructor() {}`. If there is no `constructor` in the `class` construct, then an empty function is generated. All Classes always `use strict`. All content inside the class construct is automatically in strict mode. 
+
+**Modules in ES6** 
+There was no native modules support in Javascript before ES6. 

@@ -12,7 +12,7 @@ Welcome, to Developer Handshake! Thank you for being an incremental part of this
 
 ## Structure and Content 
 
-![Diagram1]()
+![Diagram1](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/blog_logo.png)
 
 ### Technology, Programming, and Community News 
 This web space will be devoted to providing information on the impact of technology in our everyday lives. Readers can expect content on a number of different topics that include javascript development, web application development, mobile application development, portfolio development, tech news, financial trading, and career/networking development. 

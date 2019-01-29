@@ -172,7 +172,9 @@ a:hover, a:active {
   width: 40%;
   -webkit-background-size: cover;
   background-size: cover;
-  background-color: rgba(159,171,186,0.3);
+  /*background-color: rgba(159,171,186,0.3);*/
+  /*background-color: rgba(217,210,198, 0.8); */
+  background-color: rgba(130,126,118, 0.9); 
   height: 100%;
   transition: 0.8s;
   top: 0;
@@ -186,7 +188,8 @@ a:hover, a:active {
 }
 .sidebar .logo-title .description {
   font-size: 14px;
-  color: #565654;
+  /*color: #565654;*/
+  color: #D9D8D5; 
 }
 .sidebar .logo-title .logo {
   margin: 0 auto;
@@ -201,7 +204,8 @@ a:hover, a:active {
 }
 .sidebar .logo-title .title a {
   text-decoration: none;
-  color: #464646;
+  /*color: #464646;*/
+  color: #D9D8D5; 
   font-size: 2rem;
   font-weight: bold;
 }
@@ -221,7 +225,7 @@ a:hover, a:active {
   line-height: 0;
 }
 .sidebar .social-links a {
-  color: #565654;
+  color: #D9D8D5;
 }
 .sidebar .social-links a:hover {
   color: #4786D6;

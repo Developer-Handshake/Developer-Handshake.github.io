@@ -155,9 +155,31 @@ console.log (Lion.toString()) // => This is a fierce Lion.
 Classes in Javascript come with a baseline set of properties. Class methods are non-enumerable. The `class` declaration sets the `enumerable` flag to `false` for all methods in the `prototype`. Classes also have a default `constructor() {}`. If there is no `constructor` in the `class` construct, then an empty function is generated. All Classes always `use strict`. All content inside the class construct is automatically in strict mode. 
 
 **Modules in ES6** 
-Traditionally Javascript has never really had native modules support. Some alternatives were developed as a workaround of sorts, but with the latest implementation of the ECMAScript standard there are now modules with the `import` and `export` operand. The main issue with ES6 Modules is the lack of support amongst common web browsers. At the time of writing, you will need to employ an npm package, [jspm](https://jspm.io/), in order to use the new ES6 modules in modern browsers. 
+Traditionally Javascript has never really had native modules support. Some alternatives were developed as a workaround of sorts, but with the latest implementation of the ECMAScript standard there are now modules with the `import` and `export` operand. The main issue with ES6 Modules is the lack of support amongst common web browsers. At the time of writing, you will need to employ an npm package, [jspm](https://jspm.io/), in order to use the new ES6 modules in modern browsers. Other web technologies have taken hold of this functionality and provided an alternative for the yet supported ES6 modules. 
 
-![Diagram2]()
+![Diagram3](https://raw.githubusercontent.com/Developer-Handshake/Developer-Handshake.github.io/org-page/img-media/module.png)
 
 1. [RequireJS](https://requirejs.org/) - is a Javascript file and module loader. It is optimized for in-browser use, but it can be used in other Javascript environments. Using a module script loader like RequireJS will improve speed and quality of code  
 2. [CommonJS](https://requirejs.org/docs/commonjs.html) - is the module specification standard used in NodeJS for working with modules. Modules allow developers to encapsulate all types of functionality and expose said functionality to other Javascript files, as libraries 
+
+**CommonJS Modules** 
+The [**CommonJS API**](http://www.commonjs.org/) is useful in defining APIs that handle many common application needs, ultimately providing a standard library as rich as those of _Python_, _Ruby_, and _Java_. The intention behind this technology is that an application developer will be able to write an application using the _CommonJS API_ and then run that application across different Javascript interpreters and host environments. With CommonJS-compliant systems, you can use Javascript to write: 
+* Server-side Javascript applications 
+* Command line tools
+* Desktop GUI-Based applications 
+* Hybrid applications 
+
+With _CommonJS_ modules, every file explicitly states its dependencies,letting the tooling figure out what the ordering is. Using _CommonJS_ modules keeps developers from polluting the global namespace which enables engineers to now write and distribute high quality libraries with shared dependencies. Every _CommonJS_ modules is given two main globals: `module.exports` and `require`. 
+
+```javascript 
+// from foo.js 
+module.exports = 'This is a string'; 
+
+// from bar.js 
+var foo = require('./foo');
+assert.equal(foo, 'This is a string'); // => True 
+```
+
+There are developers that feel that the use of CommonJS is far more suited for sever-side applications as opposed to web applications. Many CommonJS APIs address server-oriented features that one would simply not be able to implement at a browser level in Javascript. However, it is useful to know how to structure CommonJS modules to be able to utilize them on numerous scenarios. CommonJS modules that have application on both client and server-side include validation, conversion, and templating engines. 
+
+- [Jzbonner](https://github.com/Jzbonner) 🌐

@@ -284,6 +284,8 @@ a:hover, a:active {
   border-bottom: 8px #5F5E5C solid; 
   color: #F2F3F3;
   font-weight: 400; 
+  margin: 0; 
+  text-align: center; 
 }
 .post .post-content a:hover {
   color: #2F69B3;
@@ -299,8 +301,8 @@ a:hover, a:active {
 }
 .post .post-content h2#Community-First-Business-by-Definition {
   /*background-color: rgba(255,240,198, 0.6);*/
-  border-left: 8px solid grey; 
-  font-weight: 400; 
+  /*border-left: 8px solid grey;*/ 
+  font-weight: 600; 
 }
 .post .post-content h2#Learn-Something {
   border-left: 8px solid grey; 
@@ -337,6 +339,14 @@ a:hover, a:active {
   height: auto; 
   width: auto; 
   padding: 0px; 
+}
+.post .post-content img.round-table {
+  float: right; 
+  padding-bottom: 25px; 
+}
+.post .post-content ul.contact-info {
+  margin-left: 25px;
+  padding-right: 25px; 
 }
 .post .post-content h3#Business img {
   padding-right: 8px; 

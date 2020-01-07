@@ -16,4 +16,5 @@ Full Stack Development is more than just a trendy buzzword for resumes and cover
 
 
 ### Modern System Architecture 
-At present there are two main trends in web application architecture (and system architecture in general): service-driven architecture and event-driven architecture.  
+At present there are two main trends in web application architecture (and system architecture in general): service-driven architecture and event-driven architecture. But before we dive deep into those two paradigms; I believe an introduction to System Design, first, is more appropriate.  
+
